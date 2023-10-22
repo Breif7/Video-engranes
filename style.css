@@ -1,0 +1,22 @@
+#gif{
+    border: 5px solid whitesmoke;
+    width: 100%;
+}
+
+body{
+    background-color:darkslategray;
+}
+
+#main{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    color: whitesmoke;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
